@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AppProduct</string>
+    <string name="title1">MilkUp Goat Kefir</string>
+    <string name="article1">"Kefir super nikmat ini berasal dari Susu Kambing yang diberi makan rumput dan biji-bijian asli. Rasa yang alami, segar, dan nikmat adalah yang membedakan Kefir Kambing kami dari yang lain. Produk ini rasanya dibiarkan tawar, sehingga pemanis pilihan Anda dapat ditambahkan. Kefir ini rasanya asam dan tajam, seperti feta aerasi.
+        \nKami secara berhati-hati membudidayakan susu kambing yang diberi makan rumput dari sekitar peternakan dengan pangan berisi bakteri organik dan biji-bijian segar, menghasilkan minuman yang lembut dan ringan dengan miliaran probiotik baik per porsinya. Karena terbuat dari susu kambing, Goat Kefir kami cocok bagi mereka yang tidak dapat menikmati produk berbasis susu sapi. "</string>
+    <string name="pesan">Pesan sekarang !</string>
+    <string name="cek_lokasi">cek Lokasi</string>
+    <string name="nama_pembeli">Nama Pembeli</string>
+    <string name="alamat_pengiriman">Alamat Pengiriman</string>
+    <string name="jumlah_pemesanan">Jumlah Pemesanan</string>
+    <string name="kirim_sekarang">Kirim Sekarang</string>
+    <string name="berhasil_kirim">Pesanan Berhasil Dikirim !</string>
+    <string name="gagal_kirim">Maaf Gagal Mengirim Pesanan !</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="pesan_gagal">Sensor Temperature tidak tersedia !</string>
+    <string name="cek_suhu">Cek Suhu</string>
+    <string name="alert">Tolong simpan pada lemari es</string>
+    <string name="action_language">Bahasa</string>
+</resources>

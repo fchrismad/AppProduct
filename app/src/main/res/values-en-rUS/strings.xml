@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppProduct</string>
+    <string name="title1">MilkUp Goat Kefir</string>
+    <string name="article1">This super delicious kefir comes from Goat\'s Milk which is grass fed and real grains. The natural, fresh and delicious taste is what sets our Goat Kefir apart from the others. This product tastes bland, so you can add a sweetener of your choice. This kefir tastes sour and tangy, like aerated feta.
+        \nWe carefully cultivate grass-fed goat milk from around the farm with a diet filled with organic bacteria and fresh grains, resulting in a smooth and light drink with billions of good probiotics per serving. As it is made from goat\'s milk, our Goat Kefir is suitable for those who cannot enjoy cow\'s milk based products.</string>
+    <string name="pesan">Order now !</string>
+    <string name="cek_lokasi">check Location</string>
+    <string name="nama_pembeli">Buyer Name</string>
+    <string name="alamat_pengiriman">Shipping address</string>
+    <string name="jumlah_pemesanan">Number of Orders</string>
+    <string name="kirim_sekarang">send now</string>
+    <string name="berhasil_kirim">Order Sent Successfully!</string>
+    <string name="gagal_kirim">Sorry Failed to Send Order!</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="pesan_gagal">Temperature sensor not available !</string>
+    <string name="cek_suhu">Check Temperature</string>
+    <string name="alert">Please keep it in the fridge</string>
+    <string name="action_language">Language</string>
+</resources>
